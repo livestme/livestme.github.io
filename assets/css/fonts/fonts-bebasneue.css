@@ -1,0 +1,29 @@
+@font-face {
+	font-family: Bebasneue-Bold;
+	font-display: swap;
+	src: url('/assets/fonts/Bebasneue/BebasNeue-Bold.ttf');
+}
+
+@font-face {
+	font-family: Bebasneue-Book;
+	font-display: swap;
+	src: url('/assets/fonts/Bebasneue/BebasNeue-Book.ttf');
+}
+
+@font-face {
+	font-family: Bebasneue-Light;
+	font-display: swap;
+	src: url('/assets/fonts/Bebasneue/BebasNeue-Light.ttf');
+}
+
+@font-face {
+	font-family: Bebasneue-Regular;
+	font-display: swap;
+	src: url('/assets/fonts/Bebasneue/BebasNeue-Regular.ttf');
+}
+
+@font-face {
+	font-family: Bebasneue-Thin;
+	font-display: swap;
+	src: url('/assets/fonts/Bebasneue/BebasNeue-Thin.ttf');
+}

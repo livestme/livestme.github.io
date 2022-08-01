@@ -1,0 +1,19 @@
+.underline {
+    text-decoration: none !important;
+}
+
+.underline:hover {
+    text-decoration: underline !important;
+}
+
+@media (min-width: 992px) {
+	.me-auto {
+		margin-right: auto !important;
+	}
+}
+
+@media (max-width: 991px) {
+	.me-auto {
+		margin-right: 0 !important;
+	}
+}

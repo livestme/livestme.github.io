@@ -1,0 +1,16 @@
+.header__logo {
+    color: black;
+    font-size: 2.3em !important;
+}
+
+@media (min-width: 992px) {
+	.header__mobile {
+		display: none!important;
+	}
+}
+
+@media (max-width: 991px) {
+	.header__pc {
+		display: none!important;
+	}
+}

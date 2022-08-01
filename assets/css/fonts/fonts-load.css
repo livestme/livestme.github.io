@@ -1,0 +1,52 @@
+/* Stapel */
+@font-face {
+	font-family: Stapel;
+	font-display: swap;
+	/* src: url('/assets/fonts/Stapel/Stapel-SemiExpandedBlack.ttf'); */
+	src: url('/assets/fonts/Stapel/Stapel-SemiExpandedMedium.ttf');
+}
+
+/* Lato */
+@font-face {
+	font-family: Lato-Medium;
+	font-display: swap;
+	src: url('/assets/fonts/Lato/latomedium.ttf');
+}
+
+@font-face {
+	font-family: Lato-Regular;
+	font-display: swap;
+	src: url('/assets/fonts/Lato/latoregular.ttf');
+}
+
+@font-face {
+	font-family: Lato-Medium-Italic;
+	font-display: swap;
+	src: url('/assets/fonts/Lato/latomediumitalic.ttf');
+}
+
+@font-face {
+	font-family: Lato-Regular-Italic;
+	font-display: swap;
+	src: url('/assets/fonts/Lato/latoitalic.ttf');
+}
+
+@font-face {
+	font-family: Lato-Heavy;
+	font-display: swap;
+	src: url('/assets/fonts/Lato/latoheavy.ttf');
+}
+
+@font-face {
+	font-family: Lato-Heavy-Italic;
+	font-display: swap;
+	src: url('/assets/fonts/Lato/latoheavyitalic.ttf');
+}
+
+/* PT Sans */
+
+@font-face {
+	font-family: PTSans-Captionbold;
+	font-display: swap;
+	src: url('/assets/fonts/PT-Sans/PT-Sans_Caption-Bold.woff');
+}

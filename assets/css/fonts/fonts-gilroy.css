@@ -1,0 +1,91 @@
+@font-face {
+	font-family: Gilroy-Black;
+	font-display: swap;
+	src: url('/assets/fonts/Gilroy/gilroy-black.ttf');
+}
+
+@font-face {
+	font-family: Gilroy-Black-Italic;
+	font-display: swap;
+	src: url('/assets/fonts/Gilroy/gilroy-blackitalic.ttf');
+}
+
+
+
+
+
+@font-face {
+	font-family: Gilroy-Extrabold-Italic;
+	font-display: swap;
+	src: url('/assets/fonts/Gilroy/gilroy-extrabolditalic.ttf');
+}
+
+@font-face {
+	font-family: Gilroy-Heavy;
+	font-display: swap;
+	src: url('/assets/fonts/Gilroy/gilroy-heavy.ttf');
+}
+
+@font-face {
+	font-family: Gilroy-Heavy-Italic;
+	font-display: swap;
+	src: url('/assets/fonts/Gilroy/gilroy-heavyitalic.ttf');
+}
+
+@font-face {
+	font-family: Gilroy-Light-Italic;
+	font-display: swap;
+	src: url('/assets/fonts/Gilroy/gilroy-lightitalic.ttf');
+}
+
+@font-face {
+	font-family: Gilroy-Medium;
+	font-display: swap;
+	src: url('/assets/fonts/Gilroy/gilroy-medium.ttf');
+}
+
+@font-face {
+	font-family: Gilroy-Medium-Italic;
+	font-display: swap;
+	src: url('/assets/fonts/Gilroy/gilroy-mediumitalic.ttf');
+}
+
+
+
+
+
+@font-face {
+	font-family: Gilroy-Semibold;
+	font-display: swap;
+	src: url('/assets/fonts/Gilroy/gilroy-semibold.ttf');
+}
+
+@font-face {
+	font-family: Gilroy-Semibold-Italic;
+	font-display: swap;
+	src: url('/assets/fonts/Gilroy/gilroy-semibolditalic.ttf');
+}
+
+@font-face {
+	font-family: Gilroy-Thin;
+	font-display: swap;
+	src: url('/assets/fonts/Gilroy/gilroy-thin.ttf');
+}
+
+@font-face {
+	font-family: Gilroy-Thin-Italic;
+	font-display: swap;
+	src: url('/assets/fonts/Gilroy/gilroy-thinitalic.ttf');
+}
+
+@font-face {
+	font-family: Gilroy-Ultralight;
+	font-display: swap;
+	src: url('/assets/fonts/Gilroy/gilroy-ultralight.ttf');
+}
+
+@font-face {
+	font-family: Gilroy-Ultralight-Italic;
+	font-display: swap;
+	src: url('/assets/fonts/Gilroy/gilroy-ultralightitalic.ttf');
+}

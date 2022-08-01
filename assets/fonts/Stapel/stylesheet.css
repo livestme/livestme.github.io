@@ -1,0 +1,264 @@
+@font-face {
+    font-family: 'Stapel Expanded';
+    src: url('Stapel-ExpandedBold.eot');
+    src: local('Stapel Expanded Bold'), local('Stapel-ExpandedBold'),
+        url('Stapel-ExpandedBold.eot?#iefix') format('embedded-opentype'),
+        url('Stapel-ExpandedBold.woff2') format('woff2'),
+        url('Stapel-ExpandedBold.woff') format('woff'),
+        url('Stapel-ExpandedBold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Stapel';
+    src: url('Stapel-Bold.eot');
+    src: local('Stapel Bold'), local('Stapel-Bold'),
+        url('Stapel-Bold.eot?#iefix') format('embedded-opentype'),
+        url('Stapel-Bold.woff2') format('woff2'),
+        url('Stapel-Bold.woff') format('woff'),
+        url('Stapel-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Stapel Extra';
+    src: url('Stapel-ExtraBoldItalic.eot');
+    src: local('Stapel Extra Bold Italic'), local('Stapel-ExtraBoldItalic'),
+        url('Stapel-ExtraBoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('Stapel-ExtraBoldItalic.woff2') format('woff2'),
+        url('Stapel-ExtraBoldItalic.woff') format('woff'),
+        url('Stapel-ExtraBoldItalic.ttf') format('truetype');
+    font-weight: 800;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Stapel Expanded Extra';
+    src: url('Stapel-ExpandedExtraBold.eot');
+    src: local('Stapel Expanded Extra Bold'), local('Stapel-ExpandedExtraBold'),
+        url('Stapel-ExpandedExtraBold.eot?#iefix') format('embedded-opentype'),
+        url('Stapel-ExpandedExtraBold.woff2') format('woff2'),
+        url('Stapel-ExpandedExtraBold.woff') format('woff'),
+        url('Stapel-ExpandedExtraBold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Stapel';
+    src: url('Stapel-BoldItalic.eot');
+    src: local('Stapel Bold Italic'), local('Stapel-BoldItalic'),
+        url('Stapel-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('Stapel-BoldItalic.woff2') format('woff2'),
+        url('Stapel-BoldItalic.woff') format('woff'),
+        url('Stapel-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Stapel Expanded';
+    src: url('Stapel-ExpandedBlack.eot');
+    src: local('Stapel Expanded Black'), local('Stapel-ExpandedBlack'),
+        url('Stapel-ExpandedBlack.eot?#iefix') format('embedded-opentype'),
+        url('Stapel-ExpandedBlack.woff2') format('woff2'),
+        url('Stapel-ExpandedBlack.woff') format('woff'),
+        url('Stapel-ExpandedBlack.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Stapel';
+    src: url('Stapel-MediumItalic.eot');
+    src: local('Stapel Medium Italic'), local('Stapel-MediumItalic'),
+        url('Stapel-MediumItalic.eot?#iefix') format('embedded-opentype'),
+        url('Stapel-MediumItalic.woff2') format('woff2'),
+        url('Stapel-MediumItalic.woff') format('woff'),
+        url('Stapel-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Stapel Extra';
+    src: url('Stapel-ExtraLightItalic.eot');
+    src: local('Stapel Extra Light Italic'), local('Stapel-ExtraLightItalic'),
+        url('Stapel-ExtraLightItalic.eot?#iefix') format('embedded-opentype'),
+        url('Stapel-ExtraLightItalic.woff2') format('woff2'),
+        url('Stapel-ExtraLightItalic.woff') format('woff'),
+        url('Stapel-ExtraLightItalic.ttf') format('truetype');
+    font-weight: 200;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Stapel';
+    src: url('Stapel-Light.eot');
+    src: local('Stapel Light'), local('Stapel-Light'),
+        url('Stapel-Light.eot?#iefix') format('embedded-opentype'),
+        url('Stapel-Light.woff2') format('woff2'),
+        url('Stapel-Light.woff') format('woff'),
+        url('Stapel-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Stapel Semi Expanded';
+    src: url('Stapel-SemiExpandedBlack.eot');
+    src: local('Stapel Semi Expanded Black'), local('Stapel-SemiExpandedBlack'),
+        url('Stapel-SemiExpandedBlack.eot?#iefix') format('embedded-opentype'),
+        url('Stapel-SemiExpandedBlack.woff2') format('woff2'),
+        url('Stapel-SemiExpandedBlack.woff') format('woff'),
+        url('Stapel-SemiExpandedBlack.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Stapel';
+    src: url('Stapel-Medium.eot');
+    src: local('Stapel Medium'), local('Stapel-Medium'),
+        url('Stapel-Medium.eot?#iefix') format('embedded-opentype'),
+        url('Stapel-Medium.woff2') format('woff2'),
+        url('Stapel-Medium.woff') format('woff'),
+        url('Stapel-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Stapel';
+    src: url('Stapel-LightItalic.eot');
+    src: local('Stapel Light Italic'), local('Stapel-LightItalic'),
+        url('Stapel-LightItalic.eot?#iefix') format('embedded-opentype'),
+        url('Stapel-LightItalic.woff2') format('woff2'),
+        url('Stapel-LightItalic.woff') format('woff'),
+        url('Stapel-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Stapel Semi Expanded';
+    src: url('Stapel-SemiExpandedMedium.eot');
+    src: local('Stapel Semi Expanded Medium'), local('Stapel-SemiExpandedMedium'),
+        url('Stapel-SemiExpandedMedium.eot?#iefix') format('embedded-opentype'),
+        url('Stapel-SemiExpandedMedium.woff2') format('woff2'),
+        url('Stapel-SemiExpandedMedium.woff') format('woff'),
+        url('Stapel-SemiExpandedMedium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Stapel';
+    src: url('Stapel-Italic.eot');
+    src: local('Stapel Italic'), local('Stapel-Italic'),
+        url('Stapel-Italic.eot?#iefix') format('embedded-opentype'),
+        url('Stapel-Italic.woff2') format('woff2'),
+        url('Stapel-Italic.woff') format('woff'),
+        url('Stapel-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Stapel Extra';
+    src: url('Stapel-ExtraLight.eot');
+    src: local('Stapel Extra Light'), local('Stapel-ExtraLight'),
+        url('Stapel-ExtraLight.eot?#iefix') format('embedded-opentype'),
+        url('Stapel-ExtraLight.woff2') format('woff2'),
+        url('Stapel-ExtraLight.woff') format('woff'),
+        url('Stapel-ExtraLight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Stapel Semi Expanded';
+    src: url('Stapel-SemiExpandedBold.eot');
+    src: local('Stapel Semi Expanded Bold'), local('Stapel-SemiExpandedBold'),
+        url('Stapel-SemiExpandedBold.eot?#iefix') format('embedded-opentype'),
+        url('Stapel-SemiExpandedBold.woff2') format('woff2'),
+        url('Stapel-SemiExpandedBold.woff') format('woff'),
+        url('Stapel-SemiExpandedBold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Stapel Extra';
+    src: url('Stapel-ExtraBold.eot');
+    src: local('Stapel Extra Bold'), local('Stapel-ExtraBold'),
+        url('Stapel-ExtraBold.eot?#iefix') format('embedded-opentype'),
+        url('Stapel-ExtraBold.woff2') format('woff2'),
+        url('Stapel-ExtraBold.woff') format('woff'),
+        url('Stapel-ExtraBold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Stapel Text';
+    src: url('StapelText-BoldItalic.eot');
+    src: local('Stapel Text Bold Italic'), local('StapelText-BoldItalic'),
+        url('StapelText-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('StapelText-BoldItalic.woff2') format('woff2'),
+        url('StapelText-BoldItalic.woff') format('woff'),
+        url('StapelText-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Stapel Semi Expanded Extra';
+    src: url('Stapel-SemiExpandedExtraBold.eot');
+    src: local('Stapel Semi Expanded Extra Bold'), local('Stapel-SemiExpandedExtraBold'),
+        url('Stapel-SemiExpandedExtraBold.eot?#iefix') format('embedded-opentype'),
+        url('Stapel-SemiExpandedExtraBold.woff2') format('woff2'),
+        url('Stapel-SemiExpandedExtraBold.woff') format('woff'),
+        url('Stapel-SemiExpandedExtraBold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Stapel Text';
+    src: url('StapelText-Bold.eot');
+    src: local('Stapel Text Bold'), local('StapelText-Bold'),
+        url('StapelText-Bold.eot?#iefix') format('embedded-opentype'),
+        url('StapelText-Bold.woff2') format('woff2'),
+        url('StapelText-Bold.woff') format('woff'),
+        url('StapelText-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Stapel Text';
+    src: url('StapelText-Italic.eot');
+    src: local('Stapel Text Italic'), local('StapelText-Italic'),
+        url('StapelText-Italic.eot?#iefix') format('embedded-opentype'),
+        url('StapelText-Italic.woff2') format('woff2'),
+        url('StapelText-Italic.woff') format('woff'),
+        url('StapelText-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Stapel Text';
+    src: url('StapelText-LightItalic.eot');
+    src: local('Stapel Text Light Italic'), local('StapelText-LightItalic'),
+        url('StapelText-LightItalic.eot?#iefix') format('embedded-opentype'),
+        url('StapelText-LightItalic.woff2') format('woff2'),
+        url('StapelText-LightItalic.woff') format('woff'),
+        url('StapelText-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+}
+
