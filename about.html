@@ -29,21 +29,31 @@
   <link rel="stylesheet" href="/assets/css/app.css" />
 
   <link rel="icon" href="/assets/img/favicon.ico" type="image/x-icon">
+  <style>
+    .img-bg {
+        background: url('/assets/img/logo/logo.jpg');
+        -webkit-background-size: cover;
+        background-size: cover;
+
+        background-position: center center;
+    }
+  </style>
 </head>
 
 <body>
 
   <!-- header -->
-  <header class="container py-2">
-    <div class="d-flex flex-wrap justify-content-center">
-      <div class="d-flex flex-column align-items-center mb-md-0">
-        <a href="/" class="d-flex py-2 align-items-center text-decoration-none">
-          <img class="flex-shrink-0 rounded-circle" src="/assets/img/logo/logo.jpg" width="100" alt="Логотип IGS">
-          <div class="logo ms-2 display-3 text-dark m-0">Livestme</div>
-        </a>
-        <div class="d-flex">
-          <a href="/music.html" class="nav-link underline mx-4 fs-4 text-dark">Музыка</a>
-          <a class="nav-link fw-bold fs-4 mx-4 text-dark">Информация</a>
+  <header class="img-bg py-5 mb-3">
+    <div class="container">
+      <div class="d-flex flex-wrap justify-content-center">
+        <div class="d-flex flex-column align-items-center mb-md-0">
+          <a href="/" class="d-flex py-2 align-items-center text-decoration-none">
+            <div class="logo ms-2 display-1 text-dark m-0 text-white">Livestme</div>
+          </a>
+          <div class="d-flex">
+            <a href="/music.html" class="nav-link underline mx-4 fs-4 text-white">Музыка</a>
+            <a class="nav-link fw-bold fs-4 mx-4 text-white underline-on">Информация</a>
+          </div>
         </div>
       </div>
     </div>
@@ -51,20 +61,20 @@
 
   <!-- main -->
   <main class="container">
-    <h1 class="text-center text-muted display-3">Страница о нас</h1>
+    <h1 class="text-center text-muted display-3">Страница про меня</h1>
     <p class="text-center fs-4">
-      Мы - первые в своем деле мобильные разработчики на Руси.
+      Меня зовут Ваня. Я из России.
     </p>
 
     <div style="max-width: 900px; margin: auto;">
-      <h2>Как начинали</h2>
+      <h2>С него начал</h2>
       <p class="fs-5">
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto exercitationem obcaecati magnam sed pariatur
         consectetur distinctio ea dolorum perspiciatis alias quis accusantium itaque asperiores natus necessitatibus,
         quod
         provident explicabo autem!
       </p>
-      <h2>Что получилось</h2>
+      <h2>Что имею</h2>
       <p class="fs-5">
         Lorem ipsum dolor sit amet consectetur, adipisicing elit. Esse, quidem neque quisquam vel consectetur
         consequatur sit nam expedita saepe eligendi voluptatum iste sint ducimus voluptate accusamus, aliquam, eum
@@ -80,7 +90,7 @@
         praesentium modi pariatur aperiam quos non ullam nisi quasi assumenda quis ex reiciendis, libero laboriosam,
         distinctio accusantium.
       </p>
-      <h2>Что даем</h2>
+      <h2>Как делаю</h2>
       <p class="fs-5">
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi ullam labore repellat, distinctio, saepe
         aspernatur animi optio laudantium praesentium blanditiis consequatur modi voluptatibus in sunt culpa impedit.
